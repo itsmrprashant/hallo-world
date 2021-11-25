@@ -20,8 +20,6 @@ int add( int x,int y)
 	add= x+y;
 	
 	return add;
-	
-		
 }
 int sub(int x,int y)
 {
