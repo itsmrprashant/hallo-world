@@ -11,7 +11,7 @@ int main()
 	c=add(a,b);   
 	d = sub(a,b);
     printf("sum of two numbers is: %d\n",c);
-    printf("subtraction of teo numbers is: %d",d);
+    printf("subtraction of two numbers is: %d",d);
 }
 //Define Here 
 int add( int x,int y)
